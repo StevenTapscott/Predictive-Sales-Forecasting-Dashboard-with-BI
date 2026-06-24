@@ -8,19 +8,31 @@ The dashboard was designed to simulate a real-world business reporting environme
 
 ---
 
-<h2>Dashboard Preview</h2>
+## Dashboard Preview
 
-<h3>Data Model / Schema</h3>
-<img src="screenshots/01_schema.png" width="100%">
+### Data Model / Schema
 
-<h3>Dashboard 1</h3>
-<img src="screenshots/02_dashboard1.png" width="100%">
+Star schema designed to support sales analysis, KPI reporting, time intelligence calculations, and forecasting across multiple business dimensions.
 
-<h3>Dashboard 2</h3>
-<img src="screenshots/03_dashboard2.png" width="100%">
+![Data Model](screenshots/01-schema.png)
 
-<h3>Executive Summary</h3>
-<img src="screenshots/04_summary.png" width="100%">
+### Dashboard 1 - Sales Performance Overview
+
+Provides key sales KPIs, revenue trends, profit performance, and historical sales analysis using DAX measures and interactive filtering.
+
+![Dashboard 1](screenshots/02-dashboard1.png)
+
+### Dashboard 2 - Forecasting & Trend Analysis
+
+Uses Power BI forecasting capabilities to project future sales performance, identify trends, and support data-driven business planning.
+
+![Dashboard 2](screenshots/03-dashboard2.png)
+
+### Executive Summary
+
+Highlights key findings, business insights, forecasting outcomes, and recommendations derived from the sales analysis.
+
+![Executive Summary](screenshots/04-summary.png)
 
 ---
 
