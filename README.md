@@ -8,6 +8,22 @@ The dashboard was designed to simulate a real-world business reporting environme
 
 ---
 
+<h2>Dashboard Preview</h2>
+
+<h3>Data Model / Schema</h3>
+<img src="images/01_schema.png" width="100%">
+
+<h3>Dashboard 1</h3>
+<img src="images/02_dashboard1.png" width="100%">
+
+<h3>Dashboard 2</h3>
+<img src="images/03_dashboard2.png" width="100%">
+
+<h3>Executive Summary</h3>
+<img src="images/04_summary.png" width="100%">
+
+---
+
 ## Business Problem
 
 Sales teams and business managers require visibility not only into historical performance, but also into where revenue trends are heading. Traditional reporting often focuses only on past sales activity without providing predictive insight into future performance.
