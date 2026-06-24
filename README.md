@@ -313,7 +313,7 @@ The final dashboard provides a scalable analytical foundation that could be exte
 
 # Dashboard Screenshots
 
-Shown in the screenshots folder
+Shown in the screenshots folder and in the README file.
 
 # Future Improvements
 
